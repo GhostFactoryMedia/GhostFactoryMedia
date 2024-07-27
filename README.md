@@ -6,9 +6,7 @@
 - 
 - 📫 How to reach us: send a raven
 - 
-- 
-  
-⚡ 
+- ⚡ 
 
 <!---
 GhostFactoryMedia/GhostFactoryMedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
