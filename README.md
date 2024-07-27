@@ -1,8 +1,10 @@
-- 👋 Hi, we are Ghost Factory!
-- 👀 We're interested in mind enhancing media (Generative AI)
-- 🌱 We're focused on resonating with the Universe
-- 💞️ We're looking to collaborate on OAI and VisionPro projects
-- 📫 How to reach us: send a raven
+👋 Welcome to Ghost Factory!
+  
+👀 We're interested in Generative AI and mind enhancing media
+🌱 We're focused on resonating with the Universe
+💞️ We're looking to collaborate on OAI and VisionPro projects
+
+📫 How to reach us: send a raven
   
 ⚡ 
 
